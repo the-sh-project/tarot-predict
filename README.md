@@ -1,0 +1,2 @@
+# tarot-predict
+WordPress Theme
